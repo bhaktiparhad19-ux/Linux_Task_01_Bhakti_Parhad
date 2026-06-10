@@ -32,7 +32,7 @@ Linux is one of the most important operating systems used in Cyber Security, Eth
 
 ##### Desktop Environment
 
-![Desktop Environment](Screenshots_linux_01/Desktop_Environment.png)
+![Desktop Environment](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/Desktop_Environment.png)
 
 ##### Terminal Window
 
