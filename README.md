@@ -65,11 +65,7 @@ The following Linux commands were executed and studied:
 
 ![pwd](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/pwd.png)
 
-##### ls
-
-![ls](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/ls.png)
-
-##### ls -la
+##### ls & ls -la
 
 ![ls -la](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/ls_la.png)
 
