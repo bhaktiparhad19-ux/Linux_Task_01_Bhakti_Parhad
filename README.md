@@ -36,11 +36,11 @@ Linux is one of the most important operating systems used in Cyber Security, Eth
 
 ##### Terminal Window
 
-![Terminal Window](Screenshots_linux_01/Terminal_Window.png)
+![Terminal Window](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/Terminal_Window.png)
 
 ##### System Information
 
-![System Information](Screenshots_linux_01/System_Information.png)
+![System Information](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/System_Information.png)
 
 ---
 
@@ -63,35 +63,35 @@ The following Linux commands were executed and studied:
 
 ##### pwd
 
-![pwd](Screenshots_linux_01/pwd.png)
+![pwd](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/pwd.png)
 
 ##### ls
 
-![ls](Screenshots_linux_01/ls.png)
+![ls](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/ls.png)
 
 ##### ls -la
 
-![ls -la](Screenshots_linux_01/ls_la.png)
+![ls -la](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/ls_la.png)
 
 ##### cd
 
-![cd](Screenshots_linux_01/cd.png)
+![cd](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/cd.png)
 
 ##### clear
 
-![clear](Screenshots_linux_01/clear.png)
+![clear](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/clear.png)
 
 ##### history
 
-![history](Screenshots_linux_01/history.png)
+![history](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/history.png)
 
 ##### whoami
 
-![whoami](Screenshots_linux_01/whoami.png)
+![whoami](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/whoami.png)
 
 ##### hostname
 
-![hostname](Screenshots_linux_01/hostname.png)
+![hostname](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/hostname.png)
 
 ---
 
@@ -119,11 +119,11 @@ tree CyberSecurity_Lab
 
 ##### mkdir Command
 
-![mkdir](Screenshots_linux_01/mkdir.png)
+![mkdir](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/mkdir.png)
 
 ##### tree Command
 
-![tree](Screenshots_linux_01/tree.png)
+![tree](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/tree.png)
 
 ---
 
@@ -148,7 +148,7 @@ rm
 
 #### Screenshot
 
-![File Operations](Screenshots_linux_01/file_operations.png)
+![File Operations](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/file_operations.png)
 
 ---
 
@@ -177,15 +177,15 @@ Information collected:
 
 ##### uname -a
 
-![uname -a](Screenshots_linux_01/uname_a.png)
+![uname -a](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/uname_a.png)
 
 ##### date
 
-![date](Screenshots_linux_01/date.png)
+![date](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/date.png)
 
 ##### uptime
 
-![uptime](Screenshots_linux_01/uptime.png)
+![uptime](Linux_Task_01_Bhakti_Parhad/Screenshots_linux_01/uptime.png)
 
 ---
 
@@ -202,7 +202,7 @@ Topics researched:
 The detailed answers are available in:
 
 ```text
-Research_Answers.txt
+Linux_Task_01_Bhakti_Parhad/Research_Answers.txt
 ```
 
 ---
