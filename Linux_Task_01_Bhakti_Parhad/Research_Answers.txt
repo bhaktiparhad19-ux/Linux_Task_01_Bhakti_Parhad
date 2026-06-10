@@ -1,0 +1,59 @@
+LINUX TASK 01 - SUMMER INTERNSHIP
+
+
+
+1. What is Linux?
+
+Linux is a free and open-source operating system based on the Linux kernel. It acts as a bridge between the user and the computer hardware. Linux is widely used in computers, servers, mobile devices, cloud platforms, and embedded systems because it is stable, secure, and customizable.
+
+
+
+2. Why is Linux Important in Cyber Security?
+
+Linux is important in cyber security because most servers, cloud systems, and network devices run Linux. It provides powerful command-line tools, better control over the system, and strong security features. Learning Linux helps security professionals perform system administration, network analysis, penetration testing, and security monitoring effectively.
+
+
+
+3. Difference Between Linux and Windows
+
+Linux:
+
+* Open-source and free to use.
+* Highly customizable.
+* Uses command-line tools extensively.
+* Generally requires fewer system resources.
+* Commonly used in servers and cyber security.
+
+Windows:
+
+* Proprietary operating system developed by Microsoft.
+* User-friendly graphical interface.
+* Less customizable compared to Linux.
+* Commonly used on personal computers and in offices.
+* Most commercial software is designed for Windows.
+
+
+
+4. What is a Linux Distribution?
+
+A Linux distribution (distro) is a complete operating system built around the Linux kernel. It includes the kernel, software packages, package manager, desktop environment, and system tools. Different distributions are designed for different purposes.
+
+Examples:
+
+* Ubuntu
+* Kali Linux
+* Parrot OS
+* Debian
+* Fedora
+
+
+
+5. Why do Ethical Hackers Prefer Linux-Based Operating Systems?
+
+Ethical hackers prefer Linux because it provides powerful command-line utilities, flexibility, and access to a large number of security tools. Distributions such as Kali Linux and Parrot OS come with pre-installed penetration testing and digital forensics tools. Linux also allows users to understand and control the system at a deeper level, which is essential for cyber security work.
+
+
+
+Conclusion :
+
+Linux is one of the most important operating systems in the field of cyber security. Its security, flexibility, and powerful tools make it the preferred choice for ethical hackers, security researchers, and system administrators.

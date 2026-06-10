@@ -1,0 +1,147 @@
+LINUX TASK 01 - SUMMER INTERNSHIP
+
+PART B - BASIC NAVIGATION COMMANDS
+
+1. pwd
+   Purpose : Displays the current working directory.
+   Command : pwd
+   Output : /home/kali
+
+2. ls
+   Purpose : Lists files and directories.
+   Command : ls
+   Output : Desktop Documents Downloads Music Pictures Templates Videos
+
+3. ls -la
+   Purpose : Lists all files including hidden files with detailed information.
+   Command : ls -la
+   Output : drwx---- 17 kali kali 4096 Jun 10 19:45 . 
+
+4. cd
+   Purpose : Changes the current directory.
+   Command : cd Linux
+   Output : Directory changed successfully.
+
+5. clear
+   Purpose : Clears the terminal screen.
+   Command : clear
+   Output : Terminal screen cleared.
+
+6. history
+   Purpose : Displays previously executed commands.
+   Command : history
+   Output : clear
+            cd
+            ls -la
+            ls
+            pwd
+
+7. whoami
+   Purpose : Displays the current logged-in user.
+   Command : whoami
+   Output : kali
+
+8. hostname
+   Purpose : Displays the system hostname.
+   Command : hostname
+   Output : kali
+
+**************************************************************************************************
+
+PART C - DIRECTORY MANAGEMENT
+
+Directory Structure Created :
+
+CyberSecurity_Lab
+├── Networking
+├── Linux
+├── CyberSecurity
+├── EthicalHacking
+└── Reports
+
+Commands Used : 
+               mkdir -p CyberSecurity_Lab/{Networking,Linux,CyberSecurity,EthicalHacking,Reports}
+
+               tree CyberSecurity_Lab
+
+Output : Directory created successfully.
+
+**************************************************************************************************
+
+PART D - FILE MANAGEMENT
+
+1. Create Files
+
+Command : touch notes.txt commands.txt report.txt
+Purpose : Creates empty files.
+Output : Files created successfully.
+
+2. Copy Files
+
+Command : cp notes.txt notes_backup.txt
+Purpose : Creates a copy of a file.
+Output : File copied successfully.
+
+3. Rename Files
+
+Command : mv report.txt final_report.txt
+Purpose : Renames a file.
+Output : File renamed successfully.
+
+4. Move Files
+
+Command : mv final_report.txt ../Reports/
+Purpose : Moves a file to another directory.
+Output : File moved successfully.
+
+5. Delete Files
+
+Command : rm notes_backup.txt
+Purpose : Deletes a file.
+Output : File deleted successfully.
+
+**************************************************************************************************
+
+PART E - SYSTEM INFORMATION COLLECTION
+
+1. uname -a
+
+Purpose : Displays kernel and operating system information.
+Output : Linux kali 6.18.12+kali-amd64 #1 SMP PREEMT_DYNAMIC kali 6.18.12-1kali1 (2026-02-25) x86_64 GNU/Linux
+
+2. hostname
+
+Purpose : Displays the system hostname.
+Output : kali
+
+3. whoami
+
+Purpose : Displays the current username.
+Output : kali
+
+4. date
+
+Purpose : Displays current date and time.
+Output : Wed Jun 10 08:37:51 PM IST 2026
+
+5. uptime
+
+Purpose : Displays system uptime and load information.
+Output : 20:38:02 up 10 min, 1 user, load average: 0.28, 0.41. 0.24 
+
+6. pwd
+
+Purpose : Displays current working directory.
+Output : /home/kali
+
+Recorded Information :
+
+Kernel Version : kali 6.18.12+kali-amd64
+
+Username : kali
+
+Current Directory : home directory [~]
+
+Current Date and Time : 10 Jun 2026 and 08:37:51
+
+System Uptime : 10 min

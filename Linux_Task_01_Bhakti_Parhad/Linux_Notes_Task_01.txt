@@ -1,0 +1,160 @@
+LINUX NOTES - TASK 01
+
+INTRODUCTION TO LINUX :
+
+Linux is a free and open-source operating system based on the Linux kernel. It is widely used in servers, cloud computing, cybersecurity, networking, and embedded systems.
+
+Advantages of Linux :
+
+* Free and open source
+* Secure and stable
+* Highly customizable
+* Supports multitasking and multiuser operations
+* Widely used in cybersecurity and ethical hacking
+
+Examples of Linux Distributions :
+
+* Kali Linux
+* Ubuntu
+* Parrot OS
+* Debian
+* Fedora
+
+**************************************************************************************************
+
+BASIC TERMINAL COMMANDS :
+
+pwd
+Purpose : Displays the current working directory.
+Example : pwd
+
+ls
+Purpose : Lists files and directories.
+Example : ls
+
+ls -la
+Purpose : Lists all files including hidden files with detailed information.
+Example : ls -la
+
+cd
+Purpose : Changes the current directory.
+Example : cd Linux
+
+clear
+Purpose : Clears the terminal screen.
+Example : clear
+
+history
+Purpose : Displays previously executed commands.
+Example : history
+
+whoami
+Purpose : Displays the current logged-in username.
+Example : whoami
+
+hostname
+Purpose : Displays the system hostname.
+Example : hostname
+
+**************************************************************************************************
+
+DIRECTORY MANAGEMENT :
+
+mkdir
+Purpose : Creates a new directory.
+Example : mkdir Reports
+
+mkdir -p
+Purpose : Creates nested directories and parent directories if they do not exist.
+Example : mkdir -p CyberSecurity_Lab/Linux
+
+tree
+Purpose : Displays directory structure in tree format.
+Example : tree CyberSecurity_Lab
+
+**************************************************************************************************
+
+FILE MANAGEMENT COMMANDS :
+
+touch
+Purpose : Creates empty files.
+Example : touch notes.txt
+
+cp
+Purpose : Copies files or directories.
+Example : cp notes.txt notes_backup.txt
+
+mv
+Purpose : Moves or renames files and directories.
+Example : mv report.txt final_report.txt
+
+rm
+Purpose : Deletes files and directories.
+Example : rm notes_backup.txt
+
+**************************************************************************************************
+
+SYSTEM INFORMATION COMMANDS :
+
+uname -a
+Purpose : Displays kernel and operating system information.
+
+hostname
+Purpose : Displays the system hostname.
+
+whoami
+Purpose : Displays the current user.
+
+date
+Purpose : Displays current date and time.
+
+uptime
+Purpose : Displays how long the system has been running.
+
+pwd
+Purpose : Displays current working directory.
+
+**************************************************************************************************
+
+LINUX FILE SYSTEM BASICS :
+
+/
+Root directory. Top level directory in Linux.
+
+/home
+Contains user home directories.
+
+/etc
+Stores configuration files.
+
+/bin
+Contains essential system commands.
+
+/var
+Stores logs and variable data.
+
+/tmp
+Stores temporary files.
+
+**************************************************************************************************
+
+WHY LINUX IS IMPORTANT IN CYBER SECURITY :
+
+* Most servers run Linux.
+* Security tools are primarily designed for Linux.
+* Provides powerful command-line utilities.
+* Allows better control over system resources.
+* Widely used in penetration testing and ethical hacking.
+
+**************************************************************************************************
+
+SUMMARY :
+
+In this task, I learned:
+
+* Linux installation and verification
+* Basic navigation commands
+* Directory management
+* File management
+* System information collection
+* Linux fundamentals for cybersecurity
